@@ -47,7 +47,6 @@ a {
   display: flex;
 }
 
-
 header {
   text-align: left;
   text-decoration-color: #f10;
@@ -62,7 +61,6 @@ header {
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: beige;
   size: 500%;
-  align-items: center;
 }
 
 h1 {
